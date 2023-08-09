@@ -1,4 +1,10 @@
 Attribute VB_Name = "ExcelFaceIdList"
+' ***************************************************************
+' Dê os créditos à @WillamSilvaDev por disponibilizar esse guia
+' https://williamsilvadev.github.io
+' https://github.com/WilliamSilvaDev/Excel-FaceId-List
+' ***************************************************************
+
 Option Explicit
 
 Const APP_NAME = "FaceIDs (Browser)"
