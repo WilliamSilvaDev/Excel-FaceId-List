@@ -1,2 +1,2 @@
-# Excel FaceId list
- "Excel-FaceId-list" - Repositório de Referência de Ícones FaceId para Personalização de Menus no Microsoft Excel
+# Excel FaceId List
+ Excel-FaceID-List - Repositório de referência de ícones FaceID para personalização de menus no Microsoft Excel
