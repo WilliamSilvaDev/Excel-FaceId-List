@@ -1,2 +1,4 @@
 
-~$*.xlsm
+~$*.xls*
+.license
+*.laccdb
